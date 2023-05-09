@@ -1,4 +1,4 @@
-,data_ref,index,sexo,posse_de_veiculo,posse_de_imovel,qtd_filhos,tipo_renda,educacao,estado_civil,tipo_residencia,idade,tempo_emprego,qt_pessoas_residencia,mau,renda
+data_ref,index,sexo,posse_de_veiculo,posse_de_imovel,qtd_filhos,tipo_renda,educacao,estado_civil,tipo_residencia,idade,tempo_emprego,qt_pessoas_residencia,mau,renda
 0,2015-01-01,8682,F,False,True,1,Assalariado,Secundário,Casado,Casa,36,3.5753424657534247,3.0,False,3369.24
 1,2015-01-01,12830,M,True,True,0,Empresário,Secundário,Casado,Casa,42,0.8602739726027397,2.0,False,6096.14
 2,2015-01-01,2885,M,True,True,2,Assalariado,Superior completo,Casado,Casa,31,8.065753424657535,4.0,False,5658.98
